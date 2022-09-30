@@ -1,0 +1,41 @@
+teknologi yang di dapat di gunakan,teknologi yang digunakan aplikasi mobile, penelitian sebelumnya terkait transaksi jasa dan dihubungkan yang menjadi kelebihan dari aplikasi saya , 
+
+
+paragraf akhir penelitian bertujuan untuk apa , terakhir penelitian kamu menggunakan metode apa extreme contohnya, dari pengembangan itu data2 yang di gunakan dari perusahaan/ hipotesa atau harapan yang di hasilkan setelah aplikasi dikembangkan berupa positif atau pun negatif, pengujian menggunakan apa . 
+
+
+asepek ada 8 nanti di pilih beberapa aspek yang di ambil menyesuaikan kebutuhan  yang di ambil 4 atau lima sesuai kebutuhan yang di perlukan . nanti di jelasin kenapa pilih 5 aspek tersebut diambil dari penelitian sebelumnya. 
+
+latar belakang simpel atau sekedar gambaran saja nanti di bab2 penjelasan detailnya contoh bagian tujuan penelitian
+
+jika latar belakang kuat dan bagus kedepaannya bakal enak, karna itu yang pertamakali dibahas di sidang , karna itu yangutamanya
+
+ditambahin dilatar belakang kelebihan jangn lupa setelah memaparkan penelitian sebelumnya  , contoh kalimat penelitian sebelumnya kekurangannya apa  sehingga diperlukan penerapan QRcode pada suatu transaksi sehingga nantinya tidak perlu lagi melakukan pengetikan data hanya melakukan pemindaian QRcode dan hal ini dapat mengurangi human eror.
+
+kan dalam penelitian itu basisnya penelitian sebelumnya semisal ada 4 penelitian lalu di uraikan nah dari uraian tersebut apa yang di dapat contoh penelitan sebelumnya belum ada QRcode di 4 penelitian tersebut nah sehingga dari penelitian yang sekarang akan menambahkan QRcode dan juga ambil kelebihannya misal dari 4 penelitian menggunakan mobile apps maka dari itu kita adopsi si mobile itu tadi, dan dari penelitian sebelumnnya ga usah banyak2 1 kalimat 1 penelitian, contoh penelitian sebelumnya telah banyak menkaji ini , penelitian oleh ini mengembangkan ini menghasilkan ini dan di peroleh bawasannya pengguna lebih mudah , penelitian sebelumnya 5 kalimat cukup, malah sebelumnya pernah saya buat 3 penelitian di buat 1 kalimat karena sebenarnya isi dari penelitian hampir sama dengan studi kasus  yang berbeda jadi bisa di simpulkan
+
+nah nanti di rincikan lagi dari yang app yang dikembangkan setelah kesimpulan dari review literatur  contoh di latarbelakang hanya QRcode saja misalkan nah di sini jelasin kenapa menggunakan QRcodenya alasannya 
+
+latar belakang sekilas
+
+
+hambar iso salah
+
+bagian aspek yang di ambil dari pengujian iso 
+
+ functionl suitablty
+performace efficiency
+usability
+compatibility
+
+dijelaskan dan di perkuat lagi kenapa mengambil ke 4 aspek tersebut
+
+pake visio / draw io 
+
+pertanya2 pengujian di taro lampiran aja nanti di paparkan aja di functional suitbly apa yang di lakukan nanti di rujuk ada pun pertanyaa yang akan di ajukan meliputi 40 pertanyaan yang dapat di lihat pada lampiran sekian dan di rincikan berapa responden minimal 50 responden , 
+
+
+dan bagian ui dikasih kalimat yang berisi tujuan dari ui tersebut dan di kasih rujukan contoh berikut adalah tampilan yang berisi daftar kendaraan pwngguna yang di tunjukan pada gambar 3.9.
+
+
+tampilan ditaro bagian hasil nanti gambar dari aplikasi cukup , 

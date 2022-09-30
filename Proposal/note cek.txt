@@ -1,0 +1,6 @@
+
+
+Sistem informasi berbasis komputer saat ini telah menjadi suatu hal yang primer bagi kebutuhan pemenuhan kebutuhan informasi. Banyak bidang yang telah memanfaatkan sistem informasi berbasis komputer sebagai sarana mempermudah pekerjaan. Mulai dari kalangan pebisnis sampai dengan akademis/pendidikan telah menggunakan komputer sebagai alat bantu dalam mempermudah pekerjaan. Perkembangan IPTEK (Ilmu Pengetahuan dan Teknologi) memicu banyak kalangan untuk mencari alternatif pemecahan masalah dibidang sistem informasi. Penggunaan komputer sebagai alat bantu penyelesaian pekerjaan dibidang teknologi sistem informasi semakin banyak bekembang disegala bidang. Komputer dirasa banyak memiliki keunggulan, alasannya komputer dapat diprogram sehingga dapat digunakan sesuai keinginan user/pemakainya. Ali, A., 2019. Rancang Bangun Aplikasi Penjualan Barang Berbasis Java Programming. Simtika, 2(1), pp.8-17
+
+Pengolahan data yang dilakukan secara manual membutuhkan waktu dan tenaga yang sangat banyak. Sehingga bila berhubungan dengan pengolahan data yang kompleks dan besar menjadi tidak efisien. Hal ini akan berdampak pada efektifitas kerja menjadi rendah, karena membutuhkan waktu dan tenaga yang banyak. 3584-13250-1-PB.pdf
+

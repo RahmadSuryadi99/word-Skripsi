@@ -1,0 +1,69 @@
+tombol pencarian menggunakan togle button untuk memilih pencariannya
+sebelum melakukan pencarian pengguna memilih daShulu 
+
+togle button
+- Plat nomor
+- Perusahaan 
+- nama pengurus
+- tanggal 00/00/00
+bisa nampilin data bulanan
+-bulan
+minggu 
+hari
+
+Tampilan Debitur
+- orang yang berhutang
+- data transaksi pembayaran hutang
+
+tampilan menu
+- dibuat transaksi kendaraan
+- transaksi debitur
+- tambahin stok harian di home
+
+tamplian transaksi pembayaran hutang
+
+tampilan login
+
+tampilan profil
+tampilan rekap harian dan invoice
+revisi:
+Transaksi:Harga kendaraandi dipilih bukaninput manual
+
+data kendaraan sehabis scan tambahin perusahaanya
+
+
+status kendaraan nyeberang/pulang
+
+data ini untuk apa ?
+
+bagian data transaksi jika pegawai klik hanya bisa melihat detail tanpa bisa mengubah
+
+bagaimana jika ada kendaraan balik tapi tidak memiliki hutang?
+datatransaksi yang dikirim ke perusahaan hanya transaksi nyeberang atau pembayaran hutang juga?
+
+data yang rekap
+uang keluar
+tambahin menu pengeluaran(buku,pulsa dll)
+uang masuk
+
+pembayaran bulanan beberapa mobil
+hutang 
+
+jenis pembayaran kendaraan
+- nota
+- bisa
+
+tetap ada variable jenis pembayaran
+
+penccariaan biasanya berdasarkan apa
+
+halaman rekapitulasi harian
+
+input harga
+input kendaraan
+QRcode generator 
+
+stok di ambil dari pemasukan hari sebelumnya
+
+opsi mengurangi dan nambahin stok (pimpinan)
+
