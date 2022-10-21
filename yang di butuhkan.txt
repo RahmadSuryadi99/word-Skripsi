@@ -1,0 +1,80 @@
+Nama Aplikasi
+Aplikasi Pengolahan dataTransaksi menggunakn scanner di perusahaan barang dan jasa di cv.BC BakauHeni
+
+deskripsi
+Aplikasi pencatatan transaksi barang dan jasa dengan cara menscan qrcode yang disudah di miliki setiap pengguna jasa, dan hasil transaksi akan tampil di halaman utama secara raltime.
+
+
+Pengurus:
+(nyebrang)
+SCAN>INFO MOBIL+ History TRANSAKSI(minimal tampil 3 transaksi sebelumnya)> jika hijau > pembayaran(debit/kredit)>Transaksi berhasil . 
+
+(balik)
+Scan>INFO MOBIL+ History TRANSAKSI(minimal tampil tanggal transaksi sebelumnya)> pembayaran(debit) bayar hutang> Transaksi selesai
+
+Supir:
+Scan > info Mobile(hutang , history transaksi dll).
+
+Data Realtime:
+Tanggal
+plat
+supir
+pengurus
+Debit
+kredit
+
+
+Halaman:
+Info Kendaraan (bisa edit tambah hapus di satu halaman).
+History Transaksi.
+halaman edit harga penyebrang.
+halaman nota (untuk setor ke cv)
+
+Halaman Info kendaraan:
+ada daftar kendaraan , jika di tekan menampilkan info kendaraan (tambahan fitur pencariaan).
+
+Input data kendaraan:
+nama prusahaan
+plat
+supir
+jenis kendaraan
+Ekspedisi
+
+
+note*
+jika pembayaran kurang dari harga jenis kendaraan , kekurangnya tampil otomatis tampil di field kredit pada halaman pembayaran.
+
+Jadi jasa penyebrangan ini, tugasnya 
+- membantu menyelesaikan kendala2 yg ada di perjalanan (contoh :mobil rusak di bantu mencari mekanik, kecelakaan di bantu mengurus yg di butuhkan) 
+- Dalam penyebrangan
+(Terkadang dan malah sering sekali sopir kehabisan dana untuk menyebrang, dan jasa ini membantu meminjamkan
+ uang tanpa bunga) 
+-Terkena Tilang (membantu mengurusnya) 
+-dan lain sebagainya
+
+Kenapa sih perusahaan ekspedisi butuh jasa ini? 
+Yg pertama: perusahaan berada di tempat yg jauh, jadi jika terjadi sesuatu pada truck2 ekspedisi nya jasa tersebut menjadi tangan kanan perusahaan untuk menyelesaikan permasalahan perjalanan truck, agar truck sampai ke tujuan dengan cepat
+
+Pemasukan nya dari mana : setiap penyebrangan nya truck2 di kenakan biaya tambahan untuk jasa tersebut, dan perusahaan mengirim uang untuk jasa tersebut tiap bulannya
+
+Nah jadi data transaksi itu bisa menjadi bukti transaksi ke perusahaan dan perusahaan melakukan pembayaran jasa tersebut 
+
+Alur aplikasi : di sini cara kerja aplikasi nya nanti,karyawan scan qr code yg sudah di berkan ke setiap pengendara, kemudian data dari mobil tersebut auto muncul, jadi karyawan tidak repot harus memasukan data mobil setiap transaksi lagi, selanjutnya proses transaksi, data dari proses transaksi akan di simpan yg nanti nya akan menjadi bukti transaksi ke perusahaan yg bekerjasama dengan jasa tersebut.
+
+Masalah yg di selesaikan Aplikasi ini:
+
+-yg pertama memudahkan pendataan
+-bisa melakukan pendataan di manapun
+-pencarian data transaksi lebih mudah
+
+Dan juga sebelum nya pernah menggunakan excel dalam melakukan pendataan nya, dikarenakan ribet untuk menghidupkan komputer setiap pendataanya di tambah keluhan biaya listrik, jadi pendataan menggunakan komputer berhenti, tapi jika adanya aplikasi ini akan mempermudah semuanya
+Assalamualaikum wr. wb. pak, 
+nama saya Rahmad Suryadi
+npm : 17312031
+prodi : informatika 
+
+maaf menggangu waktunya pak. Saya ingin mengajukan judul proposal skripsi, jika bapak berkenan saya mohon kesediaan bapak untuk memberi saran dan menjadi dosen pembimbing saya. untuk usulan judul yang saya miliki :
+
+"Rancang bangun aplikasi pedataan transaksi jasa penyebrangan dengan framework React native berbasis Android di jasa penyebrangan BC. Bakauheni"
+
+terimakasih atas waktunya pak, wassalamualaikum wr. wb.

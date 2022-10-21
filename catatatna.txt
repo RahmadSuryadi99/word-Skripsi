@@ -1,0 +1,81 @@
+Yang di butuhkan:
+Tampilan:
+- Home:
+	- Scan Transaksi
+	 * Jumalah kredit
+	 * nama ekspedisi
+		- History kendaraan
+		 * Detail trnsaksi jika di klik
+			- transaksi
+			  * Harga Kendaraan Pake pilihan
+			  * pilihan jenis pembayaran kendaraan pake radio button (reguler/nota)
+	- Scan Debit
+		- History
+			- Transaksi Debit
+			* Text Input bayar
+
+- Data Transaksi
+	pencarian (nama,plat, perusahaan, tanggal ,bulan) 
+	edit data transaksi(bagian pembayaran saja)
+-Data Debitur
+	*Tambhin detail Hutang(history sebelumnya)
+	*Pisahin  reguler dan invoice (tab baru)
+	*Bagian Invoice ada button list pilihan perusahaan(muncul kendaraan invoice jika di klik muncul detail transaksi) isi data setiap invois (Plat,nama,tanggal,invois, jenis kendaraan)
+	*dibagian reguler fitur pencarian (nama dan plat), perkendaraan datanya(Plat,nama,tanggal,hutang, jenis kendaraan) jika di klik muncul detail trnsaksi sebelmnya
+
+data kendaraan
+-Plat
+-Pengemudi
+-Ekspedisi
+-jenis kendaraan
+
+-data kendaran
+ *Filter (ekspedisi(milih),dan perorangan)
+ *Pencarian(plat)
+ *Fitur tambah kendaraan dan tambah pegawai
+ *Detail kendaraan(edit, hapus, cetal QRcode jadi PNG simpan)
+
+-Harga kendaraan
+
+
+
+
+<<<<<<RUMUS REKAP HARIAN>>>>>>>>>>
+
+[UANG MASUK - HARGA TIKET YANG DI BAYAR- PENGELUARAN = keuntungan bersih]
+
+
+PENGELUARAN
+SUM(pengeluaran)
+
+
+HARGA TIKET YANG DI BAYAR PERHARI
+SUM(JKP)
+
+jumlah kendaraan yang nyeberang sesuai jenis kendaraan & pelabuhan dalam sehari(JKP)
+(TS2R*harga tiket)
+(TS2E*harga tiket)
+(TS2S*harga tiket)
+
+UANG MASUK
+(UANG CASH+BAYAR HUTANG+MODAL)
+
+MODAL
+keuntungan bersih + stok tambahan
+BAYAR HUTANG
+SUM(Bayar utang dalam 24jam)
+UANG CASH
+SUM(uang diterima transaksi dalam 24JAM)
+
+
+TS1=1+
+TS2=1+
+TS3=1+
+
+TS1R=+1
+TS1E=+1
+TS1S=+1
+
+TS2R=+1
+TS2E=+1
+TS2S=+1
